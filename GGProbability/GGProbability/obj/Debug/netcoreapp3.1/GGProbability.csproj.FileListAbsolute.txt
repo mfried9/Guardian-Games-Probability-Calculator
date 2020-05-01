@@ -1,0 +1,11 @@
+C:\Users\Matt\source\repos\GGProbability\GGProbability\bin\Debug\netcoreapp3.1\GGProbability.exe
+C:\Users\Matt\source\repos\GGProbability\GGProbability\bin\Debug\netcoreapp3.1\GGProbability.deps.json
+C:\Users\Matt\source\repos\GGProbability\GGProbability\bin\Debug\netcoreapp3.1\GGProbability.runtimeconfig.json
+C:\Users\Matt\source\repos\GGProbability\GGProbability\bin\Debug\netcoreapp3.1\GGProbability.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\GGProbability\GGProbability\bin\Debug\netcoreapp3.1\GGProbability.dll
+C:\Users\Matt\source\repos\GGProbability\GGProbability\bin\Debug\netcoreapp3.1\GGProbability.pdb
+C:\Users\Matt\source\repos\GGProbability\GGProbability\obj\Debug\netcoreapp3.1\GGProbability.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\GGProbability\GGProbability\obj\Debug\netcoreapp3.1\GGProbability.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\GGProbability\GGProbability\obj\Debug\netcoreapp3.1\GGProbability.AssemblyInfo.cs
+C:\Users\Matt\source\repos\GGProbability\GGProbability\obj\Debug\netcoreapp3.1\GGProbability.dll
+C:\Users\Matt\source\repos\GGProbability\GGProbability\obj\Debug\netcoreapp3.1\GGProbability.pdb

@@ -1,0 +1,11 @@
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\bin\Debug\netcoreapp3.1\GGProbability-Tiered.exe
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\bin\Debug\netcoreapp3.1\GGProbability-Tiered.deps.json
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\bin\Debug\netcoreapp3.1\GGProbability-Tiered.runtimeconfig.json
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\bin\Debug\netcoreapp3.1\GGProbability-Tiered.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\bin\Debug\netcoreapp3.1\GGProbability-Tiered.dll
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\bin\Debug\netcoreapp3.1\GGProbability-Tiered.pdb
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\obj\Debug\netcoreapp3.1\GGProbability-Tiered.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\obj\Debug\netcoreapp3.1\GGProbability-Tiered.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\obj\Debug\netcoreapp3.1\GGProbability-Tiered.AssemblyInfo.cs
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\obj\Debug\netcoreapp3.1\GGProbability-Tiered.dll
+C:\Users\Matt\source\repos\GGProbability-Tiered\GGProbability-Tiered\obj\Debug\netcoreapp3.1\GGProbability-Tiered.pdb
